@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.daily-container{
+    color: #000;
+}
+
+.daily-deals-container{
+    align-items: center;
+    justify-content: center;
+}
+.DEALS h1{
+    padding-left: 450px;
+    padding-top: 80px;
+}
+.daily{
+    display: flex;
+    align-items: center;
+    padding-left: 460px;
+    margin-top: 60px;
+}
+.daily h4{
+    align-items: center;
+    padding-left: 50px;
+}
+
+.img-container{
+    padding-top: 50px;
+}
+.sale-items{
+    padding: 20px 25px;
+}
+.sale-items h4{
+    padding:10px 0px;
+}
+.sale-items img {
+    width: 20vw;
+    height: 54vh;
+    object-fit: cover;
+}
+.button{
+    display: flex;
+    align-items: center;
+}
+.button h4 {
+    padding-left: 50px;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Banner-container{
+    background-color: #e4cbf3b7;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+
+.text{
+    padding-left: 60px;
+}
+
+.text h1 {
+    font-size: 80px;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px 0;
+}
+
+.Banner-btn{
+    width: 8vw;
+    height: 5vh;
+}

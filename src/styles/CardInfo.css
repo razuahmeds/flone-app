@@ -1,0 +1,25 @@
+
+
+
+.demo-text{
+    width: 400px;
+}
+
+.demodate{
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.img-container{
+    width: 400px;
+    padding: 20px;
+}
+
+.btn{
+    color: white;
+    user-select: none;
+    border: 1px;
+}
